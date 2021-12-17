@@ -1,0 +1,195 @@
+<RCC>
+    <qresource prefix="/SearchModelImg">
+        <file>Paint/add.png</file>
+        <file>Paint/add_hover.png</file>
+        <file>Paint/add_press.png</file>
+        <file>Paint/down.png</file>
+        <file>Paint/down_hover.png</file>
+        <file>Paint/down_press.png</file>
+        <file>Paint/play.png</file>
+        <file>Paint/play_hover.png</file>
+        <file>Paint/play_Press.png</file>
+    </qresource>
+    <qresource prefix="/Top">
+        <file>Paint/TOP/1.png</file>
+        <file>Paint/TOP/1_hover.png</file>
+        <file>Paint/TOP/1_press.png</file>
+        <file>Paint/TOP/2.png</file>
+        <file>Paint/TOP/2_hover.png</file>
+        <file>Paint/TOP/2_press.png</file>
+        <file>Paint/TOP/3.png</file>
+        <file>Paint/TOP/3_hover.png</file>
+        <file>Paint/TOP/3_press.png</file>
+        <file>Paint/TOP/4.png</file>
+        <file>Paint/TOP/4_hover.png</file>
+        <file>Paint/TOP/4_press.png</file>
+        <file>Paint/TOP/5.png</file>
+        <file>Paint/TOP/5_hover.png</file>
+        <file>Paint/TOP/5_press.png</file>
+        <file>Paint/TOP/6.png</file>
+        <file>Paint/TOP/6_hover.png</file>
+        <file>Paint/TOP/6_press.png</file>
+        <file>Paint/TOP/7.png</file>
+        <file>Paint/TOP/7_hover.png</file>
+        <file>Paint/TOP/7_press.png</file>
+        <file>Paint/TOP/8.png</file>
+        <file>Paint/TOP/8_hover.png</file>
+        <file>Paint/TOP/8_press.png</file>
+        <file>Paint/TOP/9.png</file>
+        <file>Paint/TOP/9_hover.png</file>
+        <file>Paint/TOP/9_press.png</file>
+        <file>Paint/TOP/10.png</file>
+        <file>Paint/TOP/10_hover.png</file>
+        <file>Paint/TOP/10_press.png</file>
+        <file>Paint/TOP/11.png</file>
+        <file>Paint/TOP/11_hover.png</file>
+        <file>Paint/TOP/11_press.png</file>
+    </qresource>
+    <qresource prefix="/Bottom">
+        <file>Paint/Bottom/1.png</file>
+        <file>Paint/Bottom/1_hover.png</file>
+        <file>Paint/Bottom/1_press.png</file>
+        <file>Paint/Bottom/2.png</file>
+        <file>Paint/Bottom/2_hover.png</file>
+        <file>Paint/Bottom/2_press.png</file>
+        <file>Paint/Bottom/3.png</file>
+        <file>Paint/Bottom/3_hover.png</file>
+        <file>Paint/Bottom/3_press.png</file>
+        <file>Paint/Bottom/4.png</file>
+        <file>Paint/Bottom/4_hover.png</file>
+        <file>Paint/Bottom/4_press.png</file>
+        <file>Paint/Bottom/5.png</file>
+        <file>Paint/Bottom/5_hover.png</file>
+        <file>Paint/Bottom/5_press.png</file>
+        <file>Paint/Bottom/6.png</file>
+        <file>Paint/Bottom/6_hover.png</file>
+        <file>Paint/Bottom/6_press.png</file>
+        <file>Paint/Bottom/7.png</file>
+        <file>Paint/Bottom/7_hover.png</file>
+        <file>Paint/Bottom/7_press.png</file>
+        <file>Paint/Bottom/8.png</file>
+        <file>Paint/Bottom/8_hover.png</file>
+        <file>Paint/Bottom/8_press.png</file>
+        <file>Paint/Bottom/9.png</file>
+        <file>Paint/Bottom/9_hover.png</file>
+        <file>Paint/Bottom/9_press.png</file>
+        <file>Paint/Bottom/10.png</file>
+        <file>Paint/Bottom/10_hover.png</file>
+        <file>Paint/Bottom/10_press.png</file>
+        <file>Paint/Bottom/11.png</file>
+        <file>Paint/Bottom/11_hover.png</file>
+        <file>Paint/Bottom/11_press.png</file>
+        <file>Paint/Bottom/12.png</file>
+        <file>Paint/Bottom/12_hover.png</file>
+        <file>Paint/Bottom/12_press.png</file>
+        <file>Paint/Bottom/13.png</file>
+        <file>Paint/Bottom/13_hover.png</file>
+        <file>Paint/Bottom/13_press.png</file>
+        <file>Paint/Bottom/14.png</file>
+        <file>Paint/Bottom/14_hover.png</file>
+        <file>Paint/Bottom/14_press.png</file>
+        <file>Paint/Bottom/15.png</file>
+        <file>Paint/Bottom/15_hover.png</file>
+        <file>Paint/Bottom/15_press.png</file>
+        <file>Paint/Bottom/16.png</file>
+        <file>Paint/Bottom/16_hover.png</file>
+        <file>Paint/Bottom/16_press.png</file>
+        <file>Paint/Bottom/17.png</file>
+        <file>Paint/Bottom/17_hover.png</file>
+        <file>Paint/Bottom/17_press.png</file>
+        <file>Paint/Bottom/18.png</file>
+        <file>Paint/Bottom/18_hover.png</file>
+        <file>Paint/Bottom/18_press.png</file>
+        <file>Paint/Bottom/19.png</file>
+        <file>Paint/Bottom/19_hover.png</file>
+        <file>Paint/Bottom/19_press.png</file>
+    </qresource>
+    <qresource prefix="/Left">
+        <file>Paint/Left/1.png</file>
+        <file>Paint/Left/1_hover.png</file>
+        <file>Paint/Left/1_press.png</file>
+        <file>Paint/Left/2.png</file>
+        <file>Paint/Left/2_hover.png</file>
+        <file>Paint/Left/2_press.png</file>
+        <file>Paint/Left/3.png</file>
+        <file>Paint/Left/3_hover.png</file>
+        <file>Paint/Left/3_press.png</file>
+        <file>Paint/Left/4.png</file>
+        <file>Paint/Left/4_hover.png</file>
+        <file>Paint/Left/4_press.png</file>
+        <file>Paint/Left/5.png</file>
+        <file>Paint/Left/5_hover.png</file>
+        <file>Paint/Left/5_press.png</file>
+        <file>Paint/Left/btn_listhide (1).png</file>
+        <file>Paint/Left/btn_listhide (2).png</file>
+        <file>Paint/Left/btn_listhide (3).png</file>
+        <file>Paint/Left/btn_listshow (1).png</file>
+        <file>Paint/Left/btn_listshow (2).png</file>
+        <file>Paint/Left/btn_listshow (3).png</file>
+        <file>Paint/Left/lab_2DC.png</file>
+        <file>Paint/Left/lab_backups.png</file>
+        <file>Paint/Left/lbl_paint.png</file>
+        <file>Paint/Left/net_connect (1).png</file>
+        <file>Paint/Left/net_connect (2).png</file>
+        <file>Paint/Left/net_connect (3).png</file>
+        <file>Paint/Left/wire_connect (1).png</file>
+        <file>Paint/Left/wire_connect (2).png</file>
+        <file>Paint/Left/wire_connect (3).png</file>
+        <file>Paint/Left/indicator_down.png</file>
+        <file>Paint/Left/indicator_top.png</file>
+        <file>Paint/Left/btn_grade.png</file>
+        <file>Paint/Left/btn_grade_hover.png</file>
+        <file>Paint/Left/btn_menu.png</file>
+        <file>Paint/Left/btn_menu_hover.png</file>
+        <file>Paint/Left/btn_share.png</file>
+        <file>Paint/Left/btn_share_hover.png</file>
+        <file>Paint/Left/btn_grade_press.png</file>
+        <file>Paint/Left/btn_menu_press.png</file>
+        <file>Paint/Left/btn_share_press.png</file>
+        <file>Paint/Left/Paint.png</file>
+        <file>Paint/Left/QRCode.png</file>
+        <file>Paint/Left/wirePaint.png</file>
+        <file>Paint/Left/btn_question.png</file>
+        <file>Paint/Left/fivePaint.png</file>
+        <file>Paint/Left/sixPaint.png</file>
+        <file>Paint/Left/SevenPaint.png</file>
+        <file>Paint/Left/btn_File_1.png</file>
+        <file>Paint/Left/btn_File_2.png</file>
+        <file>Paint/Left/btn_File_3.png</file>
+    </qresource>
+    <qresource prefix="/PlayList">
+        <file>Paint/PlayList/add_1_1.png</file>
+        <file>Paint/PlayList/add_1_2.png</file>
+        <file>Paint/PlayList/add_1_3.png</file>
+        <file>Paint/PlayList/delete_1_1.png</file>
+        <file>Paint/PlayList/delete_1_2.png</file>
+        <file>Paint/PlayList/delete_1_3.png</file>
+        <file>Paint/PlayList/down_1.png</file>
+        <file>Paint/PlayList/down_2.png</file>
+        <file>Paint/PlayList/down_3.png</file>
+        <file>Paint/PlayList/love_1_1.png</file>
+        <file>Paint/PlayList/love_1_2.png</file>
+        <file>Paint/PlayList/love_1_3.png</file>
+        <file>Paint/PlayList/muen_1_1.png</file>
+        <file>Paint/PlayList/muen_1_2.png</file>
+        <file>Paint/PlayList/muen_1_3.png</file>
+        <file>Paint/PlayList/mv_1_1.png</file>
+        <file>Paint/PlayList/mv_1_2.png</file>
+        <file>Paint/PlayList/mv_1_3.png</file>
+        <file>Paint/PlayList/btn_RedLove.png</file>
+        <file>Paint/PlayList/btn_RedLove_hover.png</file>
+        <file>Paint/PlayList/btn_RedLove_press.png</file>
+    </qresource>
+    <qresource prefix="/MVPaint">
+        <file>Paint/MVPaint/btn_MVExit.png</file>
+        <file>Paint/MVPaint/btn_MVExit_hover.png</file>
+        <file>Paint/MVPaint/btn_MVNext.png</file>
+        <file>Paint/MVPaint/btn_MVNext_hover.png</file>
+        <file>Paint/MVPaint/btn_MVPre.png</file>
+        <file>Paint/MVPaint/btn_MVPre_hover.png</file>
+        <file>Paint/MVPaint/btn_MVStop.png</file>
+        <file>Paint/MVPaint/btn_MVStop_hover.png</file>
+        <file>Paint/MVPaint/btn_Start.png</file>
+        <file>Paint/MVPaint/btn_Start_hover.png</file>
+    </qresource>
+</RCC>
